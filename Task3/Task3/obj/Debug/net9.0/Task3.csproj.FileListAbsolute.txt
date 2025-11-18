@@ -1,0 +1,14 @@
+D:\Projects\Week 4\Task3\Task3\bin\Debug\net9.0\Task3.exe
+D:\Projects\Week 4\Task3\Task3\bin\Debug\net9.0\Task3.deps.json
+D:\Projects\Week 4\Task3\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+D:\Projects\Week 4\Task3\Task3\bin\Debug\net9.0\Task3.dll
+D:\Projects\Week 4\Task3\Task3\bin\Debug\net9.0\Task3.pdb
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\Task3.dll
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\refint\Task3.dll
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\Task3.pdb
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+D:\Projects\Week 4\Task3\Task3\obj\Debug\net9.0\ref\Task3.dll
